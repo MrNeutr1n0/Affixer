@@ -2,6 +2,8 @@
 ## The Affixer is designed to add specific text, strings, or characters both "Before" and "After" each line in a file. This is useful for modifying lists of domains, URLs, or any other list of data.
 <br>
 
+![affixer1.png](/Images/affixer1.png)
+
 ## Features
 - **Prefixes**: Add text to the start of each line.
 - **Suffixes**: Add text to the end of each line.
@@ -49,6 +51,15 @@ python affixer.py -i domains.txt -o updated_domains.txt -b "https://"
 python affixer.py -i list.txt -o list2.txt -a "/db_backup.sql"
 ```
 etc...
+
+<br>
+
+- Demo 1
+![affixer1.png](/Images/affixer2.png)
+- Demo 2
+![affixer1.png](/Images/affixer3.png)
+- Demo 3
+![affixer1.png](/Images/affixer4.png)
 
 <br>
 
